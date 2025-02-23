@@ -17,6 +17,10 @@ I'm currently studying<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=650&lines=🚀+Welcome+to+My+GitHub+Profile!;🔥+I+love+AI+and+Coding!;💻+Let's+Create+Awesome+Projects!" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&width=500&lines=Mebin-Abraham-Eapen" alt="Typing Username" />
+</p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
