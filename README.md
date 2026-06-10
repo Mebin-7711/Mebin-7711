@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mebin Abraham Eapen</h1>
+
 <h3 align="center">🚀 Passionate CSE Student | AI + IoT Enthusiast | Creative Innovator 🚀</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=220&section=header&text=Mebin%20Abraham%20Eapen&fontSize=45&fontColor=ffffff&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+and+Innovation+Enthusiast;Building+Solutions+for+Real+Problems;Welcome+to+my+GitHub" />
 </p>
 
 <p align="center">
