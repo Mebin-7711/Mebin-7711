@@ -14,7 +14,7 @@
 ---
 
 ## 📌 About Me
-## 🚀 About Me
+
 
 🎓 B.Tech Computer Science Engineering Student  
 🏫 Amal Jyothi College of Engineering
