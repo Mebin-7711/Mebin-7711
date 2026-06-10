@@ -2,7 +2,11 @@
 <h3 align="center">🚀 Passionate CSE Student | AI + IoT Enthusiast | Creative Innovator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=🚀+Welcome+to+my+GitHub!;💡+Innovator+%7C+Engineer+%7C+Learner;🌱+Currently+exploring+AI%2C+ML%2C+IoT+%26+Startups" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=220&section=header&text=Mebin%20Abraham%20Eapen&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%7C+Innovation+%7C+Startups;Building+Solutions+for+Real+Problems;Welcome+to+my+GitHub+🚀" />
 </p>
 
 ---
