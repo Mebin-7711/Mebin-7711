@@ -14,10 +14,30 @@
 ---
 
 ## 📌 About Me
-- 🎓 B.Tech Computer Science Engineering @ **Amal Jyothi College of Engineering**
-- 💡 I enjoy blending **innovation + tech** to solve real-world problems
-- 🔍 Currently diving deeper into **Flask**, **C**, **Python**, and **startup ideation**
-- 📫 Reach me at: **`mebinabrahame@gmail.com`**
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Engineering Student  
+🏫 Amal Jyothi College of Engineering
+
+💡 Passionate about transforming ideas into impactful solutions
+
+🚀 Interested in
+- Artificial Intelligence
+- Web Development
+- Innovation & Startups
+- IoT Technologies
+
+🌱 Currently Learning
+- Flask Web Development
+- Python Programming
+- Database Management (SQL)
+- Software Development Practices
+
+🎯 Goal
+Build technology products that solve real-world problems and create meaningful impact.
+
+📫 Contact
+📧 mebinabrahame@gmail.com
 
 ---
 
