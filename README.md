@@ -70,7 +70,7 @@
 
 ## 📈 Visitor Counter:
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mebin-7711&icon=2&color=12" alt="Profile Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Mebin-7711&label=PROFILE+VISITORS&color=0891b2&style=for-the-badge" />
 </p>
 
 ---
