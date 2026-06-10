@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:34A853,100:FBBC05&height=250&section=header&text=Mebin%20Abraham%20Eapen&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
 <h3 align="center">🚀 Passionate CSE Student | AI + IoT Enthusiast | Creative Innovator 🚀</h3>
 
 <p align="center">
